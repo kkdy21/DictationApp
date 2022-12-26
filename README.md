@@ -32,7 +32,7 @@ Ai, 모바일(android)에 대해 배울수 있는 과제 였다.
 또한 지금까지 c++, c#으로 된 응용프로그램만 만들었었는데 html css javascript를 기반으로한 웹앱을 만들어 보고싶다는 생각이 많이 들었다. 찾아보니 많은 라이브러리와 많은 자료들, 국내에 많은 개발자들이 있어서 나중에 시간이 되면 이분야로도 진출해보고 싶다는 생각이 들었다.    
 하나의 프로젝트를 위해 여러부분을 공부해야 했고 새로운 부분이 많아 어려웠지만 다양한 개발 환경과 경험, 지식을 얻을 수 있는 프로젝트였던것 같다.   
 # 프로젝트 소개 ppt
-https://1drv.ms/p/s!AvC5FNM5AJNAzTTpvjiQdRKVvLjm?e=6TFUAl
+https://1drv.ms/p/s!AvC5FNM5AJNAzTTpvjiQdRKVvLjm?e=we89n6
 # 시연 영상
 https://1drv.ms/v/s!AvC5FNM5AJNAzTYzkHtE0enG-LhW?e=Bz9tR4
 # 주요기능 스크린샷
