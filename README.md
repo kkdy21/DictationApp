@@ -34,7 +34,7 @@ Ai, 모바일(android)에 대해 배울수 있는 과제 였다.
 # 프로젝트 소개 ppt
 https://1drv.ms/p/s!AvC5FNM5AJNAzTTpvjiQdRKVvLjm?e=6TFUAl
 # 시연 영상
-https://1drv.ms/v/s!AvC5FNM5AJNAzSZGSUS3rRNsqwFM?e=E6Ozfk
+https://1drv.ms/v/s!AvC5FNM5AJNAzTYzkHtE0enG-LhW?e=Bz9tR4
 # 주요기능 스크린샷
 <img width="761" alt="image" src="https://user-images.githubusercontent.com/86215246/208306749-26748366-9145-4a7f-ad89-81e1d4e33e12.png">
 <img width="761" alt="image" src="https://user-images.githubusercontent.com/86215246/208306754-fa622286-6825-44a8-826b-8ddc24b732c3.png">
