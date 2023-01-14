@@ -5,12 +5,12 @@ C++ QML 모바일 기반 받아쓰기 비전 AI 프로그램
 # 개발인원
 고대연, 유태관, 이근우, 최다엘, 최상문, 최수현, 최진경
 # 개발환경
-1. Mobile Client
+### Mobile Client
 - Linux Ubuntu 20.04 / C++ 9.3.0 / QT 5.15.1 - SDK 31.0.0 / NDK 23.1.7779620 / JDK 12
 - Android Studio 2020.03.01 / Android 11
-2. Server
+### Server
 - Linux Ubuntu 20.04 / C++ 9.3.0 / Visual Studio Code 1.57.1 / MySQL
-3. Ai
+### Ai
 - Windows 10 / Python 3.8.8 / PyCharm community 2021.2.2 - Anaconda 4.10.3 / Tensorflow 2.6.0
 # 프로그램 소개
 - qt,qml로 만든 받아쓰기 어플과 머신비전AI로 작성한 글자를 판별하는 기능을 기반으로 만든 모바일,AI통합 프로그램
